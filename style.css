@@ -424,13 +424,13 @@ footer {
         align-items: center;
         transform: translateX(100%);
         transition: transform 0.3s ease-in-out;
-        padding-top: 60px;
+        padding-top: 1rem;
         box-shadow: -5px 0 15px rgba(0, 0, 0, 0.3);
         border-left: 1px solid var(--cor-borda);
     }
 
     .nav-list li {
-        margin: 20px 0;
+        margin: 1rem 0;
     }
 
     .nav-list a {
